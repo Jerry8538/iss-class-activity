@@ -1,2 +1,6 @@
 # iss-class-activity
-12 March
+## fixes made
+- colons everywhere
+- = instead of == for assignment
+- calling wrong function names
+- \** instead of \*\**
